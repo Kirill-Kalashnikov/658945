@@ -14,6 +14,6 @@ def minus_() -> bool:
 
 def AAAAA() -> bool:
     """
-    Minus data.
+    AAAa data.
     """
     return False
