@@ -1,4 +1,4 @@
-def sum_():
+def sum_() -> bool:
     """
     Sum data.
     """
